@@ -1,0 +1,6 @@
+#Fri Oct 24 18:25:39 CEST 2025
+cloudVolumeEnabled=false
+cloudShadowsEnabled=false
+cloudReflectionsToggle=false
+cloudCirrusEnabled=false
+ATMOS_RenderPlanet=false
